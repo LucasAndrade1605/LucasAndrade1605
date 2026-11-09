@@ -17,8 +17,6 @@ Em produção desde 2025. Mais de uma loja usa o mesmo sistema.
 - O painel e a loja são telas em React.
 - O pedido emite NFC-e para a SEFAZ. O sistema lê o retorno e registra a falha quando a nota não é autorizada.
 
-Minha parte: API, banco, telas, acesso das lojas e a integração da NFC-e, inclusive correção em produção.
-
 Loja online, no celular:
 
 <img src="img/pedidos-loja.png" alt="Loja online com cardápio, busca e produtos" width="360">
@@ -36,13 +34,12 @@ Também em produção. Cada loja vê os próprios números.
 - O painel, em Laravel e MySQL, mostra totais, pedidos e gráficos por período.
 - Quando a loja para de enviar, a situação muda para atenção.
 
-Minha parte: API, banco, telas do painel e o recebimento do movimento enviado pela loja.
-
 <img src="img/painel-vendas.png" alt="Painel com faturamento, vendas e movimento por módulo" width="900">
 
 ## Formação
 
 - Pós-graduação em Engenharia de Software em IA Aplicada — Anhanguera — cursando, previsão 2027
+- Pós-graduação em Engenharia de Software — UniAmérica — 2026
 - Tecnólogo em Análise e Desenvolvimento de Sistemas — Faculdade Insted — 2025
 - Técnico em Informática — Instituto Federal de Mato Grosso do Sul (IFMS) — 2021
 
